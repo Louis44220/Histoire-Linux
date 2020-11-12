@@ -11,6 +11,8 @@
 - 2005 : Linus Torvalds crée Git.
 - 2008 : Lancement de la version 1.0 d'Android basée sur le noyau Linux.
 - 2009 : Google annoce Chrome OS basé sur le noyau Linux. 
-- 2010 : -Linux popularisé sur mobile 
-      
-     - Red Hat devient la première société Open Source valant 1 Milliard de dollars
+- 2010 : Linux popularisé sur mobile 
+         Red Hat devient la première société Open Source valant 1 Milliard de dollars
+- 2011 : La majorité des personnes dans le monde utilisent Linux sans souvent en avoir conscience
+Comme le rappelle la Linux Fondation, Linux équipe 75% des places boursières dans le monde, dont Wall Street, ainsi que 95% des supercalculateurs.
+Les serveurs Web sont en majorité sous Linux
